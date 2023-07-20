@@ -1,10 +1,18 @@
-Welcome to Lumache's documentation!
+Список софта для Linux.
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Привет, собираю список нужного мне софта после перехода с Windows на линукс
+
+
+
+Всё, что ниже шаблон. На данное время ещё разбираюсь как пользоваться.
+
+
+Шрифты:
+**Жирный**
+*курсис* 
+`Текст ссылки внешней <https://soft-list-linux.readthedocs.io/>`_
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
